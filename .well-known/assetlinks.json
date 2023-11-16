@@ -2,6 +2,14 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.etipets.app",
+    "sha256_cert_fingerprints":
+    ["1B:D5:5F:EE:E8:9F:31:80:97:A6:7A:70:9A:8A:BA:9D:A6:AB:B2:7F:D8:C0:B3:B2:0A:1B:75:F5:77:5C:9E:E5"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.etipets.app.beta",
     "sha256_cert_fingerprints":
     ["2D:72:7A:A1:49:E7:68:77:68:B0:7C:66:C2:A8:FE:BB:92:F4:A6:47:3E:90:E5:B2:DF:98:48:24:66:86:52:F6"]
